@@ -1,0 +1,64 @@
+<?php include("gallery.php"); ?>
+<h3>Desktop</h3>
+<div class="section">
+	<p>
+		Here's what MilkyTracker and its different views look like on desktop platforms:
+	</p>
+<?php
+	$gallery[desktop] = array(
+		"raina-Default.png", "MilkyTracker at first glance. Main panel with instruments and samples on the top, channel scopes and the pattern editor.",
+		"Flasch-InstrumentEditor.png", "Action! Showing layout configuration, instrument editor with some sample numbers mapped to different notes and tab bar on the bottom.",
+		"Flasch-SampleEditor.png", "Sample editor. The sample is being played on two channels at the moment.",
+		"raina-Chip.png", "A typical chiptune &quot;sample&quot;, pulse wave. Only one cycle of the wave is needed because it can be looped.",
+		"raina-MODPanning.png", "Setting Fasttracker/ProTracker playback mode and configuring channel panning for the latter.",
+		"raina-Scream.png", "Copying instruments and samples across modules (tabs). If the color scheme looks familiar, just scream. ;)",
+		"raina-Why.png", "Selecting a resampler for rendering a song (section) into sample. Notes played on muted channels appear grey on the keyboard. Yeah, why colors?"
+	);
+	buildGallery("desktop");
+?>
+</div>
+<h3>Portable</h3>
+<div class="section">
+	<p>
+		And this is what it looks like on lovely little portable devices:
+	</p>
+<?php
+	$gallery[portable] = array(
+		"raina-Default.png", "The portable device GUI is divided into &quot;pages&quot; to fit on the small screen.",
+		"raina-Scopes.png", "The patterns are displayed on the top. That way your stylus hand won't obstruct them.",
+		"raina-Peak.png", "Notice the virtual keyboards for note and (MOD range) data entry.",
+		"raina-Ins.png", "The expanded keyboard gets you the rest of the effects.",
+		"raina-DiskOp.png", "You can also input file and instrument names with ease.",
+		"raina-InstrumentEditor.png", "&quot;Taking notes? &ndash;No. I'm editing my instruments.&quot;",
+		"raina-JamSmall.png", "Use the Jam page for the best overview of your patterns.",
+		"raina-JamBig.png", "Maximize the keyboard to jam with the stylus or finger. (That A# looks like raspberry&hellip;)"
+	);
+	buildGallery("portable");
+?>
+</div>
+<h3>Platform coverage</h3>
+<div class="section">
+	<p>
+		Looking outside the window&hellip;
+	</p>
+<?php
+	$gallery[platform] = array(
+	    "pailes-OSX.png", "MilkyTracker on Mac OS X 10.4.11 showing the sample editor",
+	    "pailes-OSX2.png", "MilkyTracker on Mac OS X 10.4.11 showing the instrument editor with sample mapping",
+	  	"raina-WindowsUnicode.png", "MilkyTracker on Windows XP SP2 showing alternative views in main panel and smooth line scopes.",
+	    "Kmuland-WindowsUnicode.png", "MilkyTracker on Windows XP with some ASCII art :)",
+		"Grifter-UbuntuGutsy.png", "MilkyTracker on Ubuntu Gutsy Gibbon.",
+	    "tarzeau-DebianWindowMaker.png", "MilkyTracker on Debian GNU/Linux with WindowMaker.",
+		"tarzeau-DebianAmiWm.png", "MilkyTracker on Debian GNU/Linux with AmiWm.",
+		"Deltafire-AROS.png", "MilkyTracker on AROS (hosted on GNU/Linux)",
+		"Varthall-AmigaOS.png", "MilkyTracker on AmigaOS 4.",
+		"pailes-PPC.jpeg", "Casio Cassiopeia EM500 (MIPS 150MHz) Pocket PC, hot stuff in the year 2000. And beyond, thanks to MilkyTracker.",
+		"pailes-PPC2.jpeg", "MilkyTracker on O2 Xda II Windows Mobile PDA phone with external keyboard",
+		"syphus-Eee.jpeg", "An orthodox Eee shot: on the beach. And Milky's getting a tan, too.",
+		"pailes-VDODayton.jpeg", "MilkyTracker on VDO Dayton car navigation system with Windows CE 4.2",
+		"jua-Haiku.png", "Milkytracker running natively on Haiku"
+	);
+	buildGallery("platform");
+?>
+</div>
+<p>If we used your images without giving you credit, it's because we lost the image source. Drop us a line so the situation can be rectified. New interesting shots are also always welcome. :)</p>

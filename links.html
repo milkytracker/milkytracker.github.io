@@ -1,0 +1,124 @@
+<?php include("links.php"); ?>
+<h3>
+	Modules
+</h3>
+<div class="section">
+	<p>
+		 Module databases and collections for use with MilkyTracker. Downloads, more than you could ever want. And don't forget about uploads, some of these sites really want yours.
+	</p>
+	<?php
+		$linkList[modules] = array(
+			"Amiga Music Preservation", "A non-profit association running a comprehensive database about Amiga music and musicians", "http://amp.dascene.net/", "AMP.jpg",
+			"ExoticA", "A retro gaming/computer music wiki with search-able collections, including the huge ModLand", "http://www.exotica.org.uk/", "ExoticA.png",
+			"Chiptune.com", "Only Rez makes it possible.", "http://www.chiptune.com/", "",
+			"IndieGameMusic.com", "A matchmaker for game developers and musicians", "http://www.indiegamemusic.com/", "IndieGameMusic.com.png",
+			"melcom's ChipTune Archive", "Another source of chiptunes", "http://chiptunes.back2roots.org/", "ChiptuneArchive.jpg",
+			"Modland", "Probably the largest module archive in the world", "ftp://ftp.modland.com/", "Modland.gif",
+			"modules.pl", "A community with modules, articles and compos. Polish/English content.", "http://www.modules.pl/", "",
+			"Modulez", "A music community focusing on the demoscene", "http://www.modulez.org/", "Modulez.gif",
+			"OrgasMOD", "Favorites of TMA members, cream of the crop hand picked from the massive archive", "http://orgasmod.com/", "",
+			"The Mod Archive", "An ever-expanding module collection with great search and community features", "http://modarchive.org/", "TMA.png",
+			"The Mod Archive<sup>LITE</sup>", "A lightweight edition of TMA optimized for low bandwidth and portable devices", "http://lite.modarchive.org/", "TMAlite.png",
+
+		);
+		/* Dead links :(
+			"Chip-on", "A huge chiptune collection started in 1996", "http://www.chip-on.com/", "Chip-on.gif",
+			"modules.fm", "modules.pl Internet radio channel dedicated to streaming only the best tracked music, voted by users", "http://www.modules.fm/", "",
+		*/
+
+		buildLinkList("modules");
+
+
+	?>
+</div>
+
+
+
+<h3>
+	Players
+</h3>
+<div class="section">
+	<p>
+		Recommended players with accurate .XM replay:
+	</p>
+	<?php
+		$linkList[players] = array(
+			"BASS / XMPlay", "A library and a Windows player from Un4seen Developments with legendary .XM compatibility", "http://www.un4seen.com/", "Un4seenDevelopments.gif",
+			"Vox", "An OS X player based on the BASS programming library", "http://www.voxapp.net/", "",
+		);
+		buildLinkList("players");
+	?>
+</div>
+
+
+
+<h3>
+	Other trackers
+</h3>
+<div class="section">
+	<p>
+		If MilkyTracker is not quite your cup of tea or you just want to look around, here are some suggestions:
+	</p>
+	<?php
+		$linkList[trackers] = array(
+			"ChibiTracker", "A multi-platform <a href=\"http://www.users.on.net/~jtlim/ImpulseTracker/\">Impulse Tracker</a> clone with a skinned GUI and some DSP features", "http://chibitracker.berlios.de/", "",
+			"Hively Tracker", "A groovy synth tracker for Amiga systems based on <a href=\"http://www.amigau.com/amigarealm/ahx/main.html\">AHX</a>", "http://www.hivelytracker.com/", "HivelyTracker.png",
+			"MadTracker", "A 3rd generation tracker for Windows with its own file format", "http://www.madtracker.org/", "MadTracker.gif",
+			"Open ModPlug Tracker", "A 3rd generation Windows tracker whose legacy compatibility has seen great improvement as of late.", "http://openmpt.org/", "openmpt.png",
+			"Renoise", "A very advanced multi-platform tracker, the logical next step up from Milky", "http://www.renoise.com/", "",
+			"Schism Tracker", "Schism Tracker is to IT what MilkyTracker is to FT2.", "http://eval.sovietrussia.org/wiki/Schism_Tracker", "",
+		);
+		buildLinkList("trackers");
+	?>
+</div>
+
+
+
+<h3>
+	Related
+</h3>
+<div class="section">
+	<p>
+		Scene websites
+	</p>
+	<?php
+		$linkList[related] = array(
+			"Battle of the Bits", "An active compo site", "http://www.battleofthebits.org/", "BotB.gif",
+			"Big Chipcompo", "An annual chiptune compo with multiple categories", "http://bcompo.wz.cz/", "",
+			"Titan", "This is where we hail from. Well, most of us anyway. ", "http://www.titandemo.org/", "Titan.gif",
+			"Nectarine", "Nectarine Radio is back on air! Now, make some noise!", "http://www.scenemusic.net/", "",
+		);
+		buildLinkList("related");
+	?>
+</div>
+
+
+
+<h3>
+	MilkyTracker banners
+</h3>
+<div class="section">
+	<p>
+		For your website, or your friend's. Link us and tell us about it, maybe we'll link you back. :)
+	</p>
+	<table class="links">
+		<tr>
+			<td class="banner">
+				<img src="img/milkybanner.gif" alt="link banner" />
+			</td>
+			<td>
+				<h5>Animated <span class="url">Link to: <a href="http://www.milkytracker.org/">http://www.milkytracker.org/</a></span></h5>
+				Download: <a href="img/milkybanner.gif">http://www.milkytracker.org/img/milkybanner.gif</a>
+			</td>
+		</tr>
+		<tr>
+			<td class="banner">
+				<img src="img/milkybanner.png" alt="link banner" />
+			</td>
+			<td>
+				<h5>Still <span class="url">Link to: <a href="http://www.milkytracker.org/">http://www.milkytracker.org/</a></span></h5>
+				Download: <a href="img/milkybanner.png">http://www.milkytracker.org/img/milkybanner.png</a>
+			</td>
+		</tr>
+	</table>
+</div>

@@ -1,0 +1,384 @@
+*
+{
+	font-family: "Trebuchet MS", "Helvetica", "Arial", sans-serif;
+}
+
+html
+{
+	margin: 0;
+	border: 0;
+	padding: 0;
+	background-color: #122;
+	color: #fff;
+}
+
+body
+{
+	margin: 0;
+	border: 0;
+	padding: 0;
+	color: #fff;
+	font-size: 10pt;
+	height: 100%;
+}
+
+h1
+{
+	margin: 0;
+	border: 0;
+	padding: 0;
+	padding-top: 24px;
+	background-color: #234;
+	background-image: url(../img/gradientflip.png);
+	background-repeat: repeat-x;
+	background-position: bottom left;
+	width: 100%;
+	text-align: left;
+	font-size: 24pt;
+}
+
+img
+{
+	margin: 0em;
+	border: 0;
+	padding: 0;
+}
+
+.section img
+{
+	margin-right: .5em;
+	margin-bottom: .5em;
+	float: left;
+}
+
+h1 img
+{
+	margin: 0;
+	font-size: 24pt;
+	width: 320px;
+	height: 128px;
+}
+
+#version
+{
+	display: inline;
+	margin: 0;
+	margin-right: .5em;
+	float: right;
+	cursor: help;
+	height: 0;
+	position: relative;
+	top: .25em;
+}
+
+.url
+{
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	font-size: 8pt;
+	color: #8ca;
+}
+
+.url a
+{
+	color: #8ca;
+}
+
+#navigation
+{
+	margin: 0;
+	border: 0;
+	border-bottom-style: solid;
+	border-bottom-color: #fff;
+	border-bottom-width: 1px;
+	padding: 0;
+	background-color: #000;
+	overflow: visible;
+	display: block;
+	float: left;
+	width: 100%;
+}
+
+#navigation *
+{
+	list-style: none;
+}
+
+#navigation li
+{
+	position: relative;
+	display: block;
+	float: left;
+	margin-right: 1em;
+	border-style: solid;
+	border-color: transparent;
+	border-width: 1px;
+	border-bottom-width: 0;
+	padding-left: .5em;
+	padding-right: .5em;
+	bottom: -1px;
+}
+
+#navigation li:first-child
+{
+	border-left: none;
+}
+
+
+#navigation #current
+{
+	background-color: #122;
+	border-color: #fff !important;
+	cursor: default;
+}
+
+#navigation .external
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#navigation a
+{
+	text-decoration: none;
+	width: 100%;
+	color: #ace;
+}
+
+#navigation a:hover
+{
+	color: #fff;
+}
+
+#content
+{
+	border-style: solid;
+	border-color: #fff;
+	border-width: 0;
+	border-top-width: 0;
+	min-height: 100%;
+	margin: 24px;
+	margin-top: 48px;
+	text-align: justify;
+	width: 740px;
+}
+
+h2, h3, h4, h5
+{
+	font-weight: bold;
+	border: 0;
+	margin: 0;
+	margin-top: 1em;
+}
+
+h2
+{
+	font-size: 16pt;
+	margin-bottom: 1em;
+}
+
+h3
+{
+	padding-left: .5em;
+	padding-right: .5em;
+	display: inline;
+	font-size: 12pt;
+	border: 1px outset #ace;
+	border-bottom: none;
+	position: relative;
+	bottom: -1px;
+	z-index: 2;
+	background-color: #234;
+	background-image: url(../img/gradient.png);
+	background-repeat: repeat-x;
+	background-position: bottom left;
+}
+
+h4, h5
+{
+	font-size: 10pt;
+}
+
+.section h4
+{
+	margin: 0;
+}
+
+h5
+{
+	margin: 0;
+	position: relative;
+}
+
+.offset
+{
+	visibility: hidden;
+}
+
+.section
+{
+	border: 1px outset #8ac;
+	padding: 1em;
+	position: relative;
+	z-index: 1;
+	margin-bottom: 2em;
+	overflow: hidden;
+	background-color: #234;
+	text-align: left;
+}
+
+p
+{
+	margin: 0;
+	margin-bottom: 1em;
+}
+
+.comment
+{
+	
+	text-align: left;
+	float: left;
+	font-size: 8pt;
+}
+
+.writer
+{
+	
+	text-align: right;
+	font-style: italic;
+	color: #ace;
+	font-size: 8pt;
+}
+
+.section p:last-child
+{
+	margin: 0;
+}
+
+ul, ol
+{
+	margin-top: 0;
+	margin-bottom: 1em;
+	padding-left: 1.5em;
+	list-style-position: outside;
+	list-style-type: square;
+}
+
+ol
+{
+	list-style-type: decimal;
+}
+
+li ul, li ol
+{
+	margin-bottom: 0;
+}
+
+table
+{
+	border-collapse: collapse;
+	margin: 0;	
+	border: 0;
+	padding: 0;
+}
+
+.links, .songs
+{
+	width: 100%;
+}
+
+.songs tr td
+{
+	text-align: center;
+}
+
+.songs tr td:first-child
+{
+	text-align: left;
+}
+
+tr.hover
+{
+	cursor: pointer;
+}
+
+tr.hover:hover
+{
+	background-color: #345;
+}
+
+td
+{
+	vertical-align: top;
+	margin: 0;	
+	border: 0;
+	padding: 0;
+	padding-right: 1em;
+}
+
+td.banner
+{
+	text-align: center;
+	vertical-align: middle;
+	width: 88px;
+}
+
+.banner img
+{
+	margin: 0;
+}
+
+td:last-child
+{
+	padding: 0;
+}
+
+a
+{
+	color: #8ac;
+	text-decoration: none;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+abbr
+{
+	border-bottom: 1px dotted #fff;
+	cursor: help;
+}
+
+form
+{
+	text-align: center;
+}
+
+input, input[disabled]
+{
+	font-size: 10pt;
+}
+
+em
+{
+	font-style: normal;
+	font-weight: bold;
+}
+
+.email
+{
+	direction: rtl;
+	unicode-bidi: bidi-override;
+}
+
+.scratch
+{
+	text-decoration: line-through;
+}
+
+.new
+{
+	text-decoration: blink;
+}
