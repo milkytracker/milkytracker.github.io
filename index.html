@@ -1,0 +1,21 @@
+---
+layout: page
+title: News
+navigation_weight: 2
+---
+
+{% for post in site.posts %}
+<h3>{{ post.date | date: "%b %-d, %Y" }}</h3>
+<div class="section">
+<h4><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h4>
+{{ post.content }}
+{% if post.comment %}
+<p class="comment">
+    <a href="{{ post.comment }}">Comment&hellip;</a>
+</p>
+{% endif %}
+{% if post.author %}
+<p class="writer">-{{ post.author }}</p>
+{% endif %}
+</div>
+{% endfor %}

@@ -1,0 +1,56 @@
+---
+title: IRC Chat
+navigation_weight: 0
+---
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+{% include head.html %}
+
+<body style="height: 100%;" onload="loadIRCClient()">
+    <script type="text/javascript">
+        function getParameterByName(name) {
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(window.location.href);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        }
+
+        function loadIRCClient() {
+            var nick = getParameterByName("nick");
+            if (!nick)
+                nick = "MilkyTrackerUser";
+
+            var altNick = nick + Math.floor(1000 + Math.random() * 9000);
+            var container = document.getElementById("container");
+
+            container.innerHTML = 
+            "<object type=\"application/x-java-applet\" codebase=\"/pjirc\" code=\"IRCApplet.class\" archive=\"irc.jar, pixx.jar\" width=\"100%\" height=\"100%\" alt=\"The chat applet requires Java to be installed.\">" +
+                "<param name=\"CABINETS\" value=\"irc.cab, securedirc.cab, pixx.cab\" />" +
+                "<param name=\"nick\" value=\"" + nick + " />" +
+                "<param name=\"alternatenick\" value=\"" + altNick + "\" />" +
+                "<param name=\"name\" value=\"MilkyTracker.net PJIRC\" />" +
+                "<param name=\"host\" value=\"irc.esper.net\" />" +
+                "<param name=\"gui\" value=\"pixx\" />" +
+                "<param name=\"quitmessage\" value=\"Saving BACKUP.XM...\" />" +
+                "<param name=\"autoconnection\" value=\"false\" />" +
+                "<param name=\"command1\" value=\"/join #MilkyTracker\" />" +
+                "<param name=\"useinfo\" value=\"false\" />" +
+                "<param name=\"asl\" value=\"false\" />" +
+                "<param name=\"pixx:showconnect\" value=\"false\" />" +
+                "<param name=\"pixx:showchanlist\" value=\"false\" />" +
+                "<param name=\"pixx:showabout\" value=\"false\" />" +
+                "<param name=\"pixx:showhelp\" value=\"false\" />" +
+                "<param name=\"pixx:showdock\" value=\"false\" />" +
+                "<param name=\"pixx:showclose\" value=\"false\" />" +
+                "<param name=\"pixx:showstatus\" value=\"false\" />" +
+                "<param name=\"pixx:color6\" value=\"223344\" />" +
+            "</object>";
+        }
+    </script>
+    <div id="container" class="section" style="height: 100%; margin-top: 0; padding-top: 0; position:absolute; top:0px; bottom:0px; left:0px; right:0px;">
+    </div>
+</body>
+</html>

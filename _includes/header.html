@@ -1,0 +1,17 @@
+<h1><a href="/"><img src="{{ "/img/kenet-LogoSmall.png" | relative_url }}" alt="MilkyTracker" height="128" width="320"/></a></h1>
+<p id="version" title="Current MilkyTracker version">
+    {{ site.current_version }}
+</p>
+<ul id="navigation">
+    {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
+    {% for p in navigation_pages %}
+        {% if p.navigation_weight != 0 %}
+        <li{% if page.url == p.url %} id="current"{% endif %}>
+            <a class="page-link" href="{{ p.url | relative_url }}">{{ p.title | escape }}</a>
+        </li>
+        {% endif %}
+    {% endfor %}
+    <li class="external">
+        <a href="http://modarchive.org/forums/index.php?board=30.0">Forum &#9658;</a>
+    </li>
+</ul>

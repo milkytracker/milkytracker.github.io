@@ -1,0 +1,39 @@
+<head>
+    <title>{% if page.title %}{{ site.title }} | {{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <meta name="Description" content="{{ site.description }}" />
+    <meta name="Keywords" content="{{ site.keywords }}" />
+    <link rel="shortcut icon" type="text/css" href="{% link favicon.ico %}" />
+    <link rel="stylesheet" href="{% link style/screen.css %}" type="text/css" />
+    <link rel="stylesheet" href="{% link slimbox/css/slimbox.css %}" type="text/css" media="screen" />
+    <script type="text/javascript" src="{% link script/functions.js %}"></script>
+    <script type="text/javascript" src="{% link slimbox/js/mootools-1.11.js %}"></script>
+    <script type="text/javascript" src="{% link slimbox/js/slimbox.js %}"></script>
+    <!--[if lte IE 6]>
+        <style type="text/css" media="screen">
+            body
+            {
+                behavior: url(script/csshover2.htc);
+            }
+            
+            img
+            {
+                behavior: url(script/iepngfix.htc);
+            }
+
+            li ul
+            {
+                border-width: 1px;
+            }
+
+            #SiteMeter
+            {
+                filter: alpha(opacity=33);
+            }
+            
+            #SiteMeter:hover
+            {
+                filter: alpha(opacity=67);
+            }
+        </style>
+    <![endif]-->
+</head>

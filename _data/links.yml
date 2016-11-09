@@ -1,0 +1,117 @@
+  - name: "Modules"
+    description: "Module databases and collections for use with MilkyTracker. Downloads, more than you could ever want. And don't forget about uploads, some of these sites really want yours."
+    links:
+      - name: "Amiga Music Preservation"
+        description: "A non-profit association running a comprehensive database about Amiga music and musicians"
+        url: "http://amp.dascene.net/"
+        banner: "AMP.jpg"
+    
+      - name: "ExoticA"
+        description: "A retro gaming/computer music wiki with search-able collections, including the huge ModLand"
+        url: "http://www.exotica.org.uk/"
+        banner: "ExoticA.png"
+    
+      - name: "Chiptune.com"
+        description: "Only Rez makes it possible."
+        url: "http://www.chiptune.com/"
+
+      - name: "IndieGameMusic.com"
+        description: "A matchmaker for game developers and musicians"
+        url: "http://www.indiegamemusic.com/"
+        banner: "IndieGameMusic.com.png"
+
+      - name: "melcom's ChipTune Archive"
+        description: "Another source of chiptunes"
+        url: "http://chiptunes.back2roots.org/"
+        banner: "ChiptuneArchive.jpg"
+
+      - name: "Modland"
+        description: "Probably the largest module archive in the world"
+        url: "ftp://ftp.modland.com/"
+        banner: "Modland.gif"
+
+      - name: "modules.pl"
+        description: "A community with modules, articles and compos. Polish/English content."
+        url: "http://www.modules.pl/"
+
+      - name: "Modulez"
+        description: "A music community focusing on the demoscene"
+        url: "http://www.modulez.org/"
+        banner: "Modulez.gif"
+
+      - name: "OrgasMOD"
+        description: "Favorites of TMA members, cream of the crop hand picked from the massive archive"
+        url: "http://orgasmod.com/"
+
+      - name: "The Mod Archive"
+        description: "An ever-expanding module collection with great search and community features"
+        url: "http://modarchive.org/"
+        banner: "TMA.png"
+
+      - name: "The Mod Archive<sup>LITE</sup>"
+        description: "A lightweight edition of TMA optimized for low bandwidth and portable devices"
+        url: "http://lite.modarchive.org/"
+        banner: "TMAlite.png"
+
+  - name: "Players"
+    description: "Recommended players with accurate .XM replay:"
+    links:
+      - name: "BASS / XMPlay"
+        description: "A library and a Windows player from Un4seen Developments with legendary .XM compatibility"
+        url: "http://www.un4seen.com/"
+        banner: "Un4seenDevelopments.gif"
+
+      - name: "Vox"
+        description: "An OS X player based on the BASS programming library"
+        url: "http://www.voxapp.net/"
+
+  - name: "Other trackers"
+    description: "If MilkyTracker is not quite your cup of tea or you just want to look around, here are some suggestions:"
+    links:
+      - name: "ChibiTracker"
+        description: "A multi-platform <a href=\"http://www.users.on.net/~jtlim/ImpulseTracker/\">Impulse Tracker</a> clone with a skinned GUI and some DSP features"
+        url: "http://chibitracker.berlios.de/"
+
+      - name: "Hively Tracker"
+        description: "A groovy synth tracker for Amiga systems based on <a href=\"http://www.amigau.com/amigarealm/ahx/main.html\">AHX</a>"
+        url: "http://www.hivelytracker.com/"
+        banner: "HivelyTracker.png"
+
+      - name: "MadTracker"
+        description: "A 3rd generation tracker for Windows with its own file format"
+        url: "http://www.madtracker.org/"
+        banner: "MadTracker.gif"
+
+      - name: "Open ModPlug Tracker"
+        description: "A 3rd generation Windows tracker whose legacy compatibility has seen great improvement as of late."
+        url: "http://openmpt.org/"
+        banner: "openmpt.png"
+
+      - name: "Renoise"
+        description: "A very advanced multi-platform tracker, the logical next step up from Milky"
+        url: "http://www.renoise.com/"
+
+      - name: "Schism Tracker"
+        description: "Schism Tracker is to IT what MilkyTracker is to FT2."
+        url: "http://eval.sovietrussia.org/wiki/Schism_Tracker"
+
+  - name: "Related"
+    description: "Scene websites"
+    links:
+      - name: "Battle of the Bits"
+        description: "An active compo site"
+        url: "http://www.battleofthebits.org/"
+        banner: "BotB.gif"
+
+      - name: "Big Chipcompo"
+        description: "An annual chiptune compo with multiple categories"
+        url: "http://bcompo.wz.cz/"
+
+      - name: "Titan"
+        description: "This is where we hail from. Well, most of us anyway. "
+        url: "http://www.titandemo.org/"
+        banner: "Titan.gif"
+
+      - name: "Nectarine"
+        description: "Nectarine Radio is back on air! Now, make some noise!"
+        url: "http://www.scenemusic.net/"

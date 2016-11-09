@@ -1,0 +1,127 @@
+  - name: "Desktop"
+    path: "desktop"
+    description: "Here's what MilkyTracker and its different views look like on desktop platforms:"
+    images:
+      - filename: "raina-Default.png"
+        author: "raina"
+        caption: "MilkyTracker at first glance. Main panel with instruments and samples on the top, channel scopes and the pattern editor."
+
+      - filename: "Flasch-InstrumentEditor.png"
+        author: "Flasch"
+        caption: "Action! Showing layout configuration, instrument editor with some sample numbers mapped to different notes and tab bar on the bottom."
+
+      - filename: "Flasch-SampleEditor.png"
+        author: "Flasch"
+        caption: "Sample editor. The sample is being played on two channels at the moment."
+
+      - filename: "raina-Chip.png"
+        author: "raina"
+        caption: "A typical chiptune \"sample\", pulse wave. Only one cycle of the wave is needed because it can be looped."
+
+      - filename: "raina-MODPanning.png"
+        author: "raina"
+        caption: "Setting Fasttracker/ProTracker playback mode and configuring channel panning for the latter."
+
+      - filename: "raina-Scream.png"
+        author: "raina"
+        caption: "Copying instruments and samples across modules (tabs). If the color scheme looks familiar, just scream. ;)"
+
+      - filename: "raina-Why.png"
+        author: "raina"
+        caption: "Selecting a resampler for rendering a song (section) into sample. Notes played on muted channels appear grey on the keyboard. Yeah, why colors?"
+
+  - name: "Portable"
+    path: "portable"
+    description: "Here's what MilkyTracker and its different views look like on desktop platforms:"
+    images:
+      - filename: "raina-Default.png"
+        author: "raina"
+        caption: "The portable device GUI is divided into \"pages\" to fit on the small screen."
+
+      - filename: "raina-Scopes.png"
+        author: "raina"
+        caption: "The patterns are displayed on the top. That way your stylus hand won't obstruct them."
+
+      - filename: "raina-Peak.png"
+        author: "raina"
+        caption: "Notice the virtual keyboards for note and (MOD range) data entry."
+
+      - filename: "raina-Ins.png"
+        author: "raina"
+        caption: "The expanded keyboard gets you the rest of the effects."
+
+      - filename: "raina-DiskOp.png"
+        author: "raina"
+        caption: "You can also input filename and instrument names with ease."
+
+      - filename: "raina-InstrumentEditor.png"
+        author: "raina"
+        caption: "\"Taking notes? –No. I'm editing my instruments.\""
+
+      - filename: "raina-JamSmall.png"
+        author: "raina"
+        caption: "Use the Jam page for the best overview of your patterns."
+
+      - filename: "raina-JamBig.png"
+        author: "raina"
+        caption: "Maximize the keyboard to jam with the stylus or finger. (That A# looks like raspberry…)"
+
+  - name: "Platform coverage"
+    path: "platform"
+    description: "Looking outside the window…"
+    images:
+    - filename: "pailes-OSX.png"
+      author: "pailes"
+      caption: "MilkyTracker on Mac OS X 10.4.11 showing the sample editor"
+
+    - filename: "pailes-OSX2.png"
+      author: "pailes"
+      caption: "MilkyTracker on Mac OS X 10.4.11 showing the instrument editor with sample mapping"
+
+    - filename: "raina-WindowsUnicode.png"
+      author: "raina"
+      caption: "MilkyTracker on Windows XP SP2 showing alternative views in main panel and smooth line scopes."
+
+    - filename: "Kmuland-WindowsUnicode.png"
+      author: "Kmuland"
+      caption: "MilkyTracker on Windows XP with some ASCII art :)"
+
+    - filename: "Grifter-UbuntuGutsy.png"
+      author: "Grifter"
+      caption: "MilkyTracker on Ubuntu Gutsy Gibbon."
+
+    - filename: "tarzeau-DebianWindowMaker.png"
+      author: "tarzeu"
+      caption: "MilkyTracker on Debian GNU/Linux with WindowMaker."
+
+    - filename: "tarzeau-DebianAmiWm.png"
+      author: "tarzeu"
+      caption: "MilkyTracker on Debian GNU/Linux with AmiWm."
+
+    - filename: "Deltafire-AROS.png"
+      author: "Deltafire"
+      caption: "MilkyTracker on AROS (hosted on GNU/Linux)"
+
+    - filename: "Varthall-AmigaOS.png"
+      author: "Varthall"
+      caption: "MilkyTracker on AmigaOS 4."
+
+    - filename: "pailes-PPC.jpeg"
+      author: "pailes"
+      caption: "Casio Cassiopeia EM500 (MIPS 150MHz) Pocket PC hot stuff in the year 2000. And beyond thanks to MilkyTracker."
+
+    - filename: "pailes-PPC2.jpeg"
+      author: "pailes"
+      caption: "MilkyTracker on O2 Xda II Windows Mobile PDA phone with external keyboard"
+
+    - filename: "syphus-Eee.jpeg"
+      author: "syphus"
+      caption: "An orthodox Eee shot: on the beach. And Milky's getting a tan too."
+
+    - filename: "pailes-VDODayton.jpeg"
+      author: "pailes"
+      caption: "MilkyTracker on VDO Dayton car navigation system with Windows CE 4.2"
+
+    - filename: "jua-Haiku.png"
+      author: "jua"
+      caption: "Milkytracker running natively on Haiku"

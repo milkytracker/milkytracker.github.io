@@ -43,7 +43,7 @@ function validateLogin()
 	
 		window.open
 		(
-			'irc.php',
+			'irc',
 			'PJIRC',
 			'width=640, height=480, scrollbars=0, status=1, toolbar=0, location=0, menubar=0, directories=0, resizable=1'
 		);

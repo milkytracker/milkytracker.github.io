@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{% include head.html %}
+
+<body>
+  {% include header.html %}
+  <div id="content">
+    <h3>{{ page.date | date: "%b %-d, %Y" }}</h3>
+    <div class="section">
+    <h4><a class="post-link" href="{{ post.url | relative_url }}">{{ page.title | escape }}</a></h4>
+    {{ content }}
+    {% if page.author %}
+    <p class="writer">-{{ page.author }}</p>
+    {% endif %}
+    </div>
+  </div>
+</body>
