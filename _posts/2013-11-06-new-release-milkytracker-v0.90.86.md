@@ -12,4 +12,4 @@ This incremental release brings the usual bug-fixes and a couple of new features
 Please read the [ChangeLog][changelog] for more details.
 
 [src-github]: http://github.com/MilkyTracker/MilkyTracker
-[changelog]: {% link docs/ChangeLog.html %}
+[changelog]: {% link docs/ChangeLog.md %}

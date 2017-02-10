@@ -21,7 +21,7 @@ of the [effect commands](docs/MilkyTracker.html#effects) with their
 explanations. Hoping to serve you better and all in all, provide a better
 MilkyTracker experience. If you're still reading this, now would be a good time
 to stop and go get your copy of MilkyTracker from [downloads][downloads]. For
-more reading, check out the [ChangeLog]({% link docs/ChangeLog.html %}).
+more reading, check out the [ChangeLog]({% link docs/ChangeLog.md %}).
 
 ~~PS The AmigaOS port will be up in a few days.~~
 

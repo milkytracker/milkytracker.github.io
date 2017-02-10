@@ -25,7 +25,7 @@ navigation_weight: 5
   * [Tracking Principles][tracking-principles] by Yosfits
   * [TraxWeekly, the complete archive 1995&ndash;1998][trax-weekly]
 
-[changelog]: {% link docs/ChangeLog.html %}
+[changelog]: {% link docs/ChangeLog.md %}
 [faq]: {% link docs/FAQ.html %}
 [manual]: {% link docs/MilkyTracker.html %}
 [quick-ref-readme]: {% link docs/QuickReferenceReadMe.txt %}

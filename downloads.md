@@ -117,7 +117,7 @@ Fill your PlayStation Portable with the milky goodness of a kickass module playe
 *[P/PC]: Pocket PC
 *[H/PC]: Handheld PC
 
-[changelog]: {% link docs/ChangeLog.html %}
+[changelog]: {% link docs/ChangeLog.md %}
 
 [current-mac]: {% link files/milkytracker-0.90.86-osx_universal.zip %}
 [current-win]: {% link files/milkytracker-0.90.86-winnt.zip %}

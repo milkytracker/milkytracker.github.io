@@ -13,4 +13,4 @@ The user manual and FAQ have also been updated.
 
 Please read the [ChangeLog][changelog] for more details.
 
-[changelog]: {% link docs/ChangeLog.html %}
+[changelog]: {% link docs/ChangeLog.md %}
