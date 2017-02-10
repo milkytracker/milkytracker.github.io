@@ -5,12 +5,12 @@
         description: "A non-profit association running a comprehensive database about Amiga music and musicians"
         url: "http://amp.dascene.net/"
         banner: "AMP.jpg"
-    
+
       - name: "ExoticA"
         description: "A retro gaming/computer music wiki with search-able collections, including the huge ModLand"
         url: "http://www.exotica.org.uk/"
         banner: "ExoticA.png"
-    
+
       - name: "Chiptune.com"
         description: "Only Rez makes it possible."
         url: "http://www.chiptune.com/"
@@ -71,6 +71,10 @@
       - name: "ChibiTracker"
         description: "A multi-platform <a href=\"http://www.users.on.net/~jtlim/ImpulseTracker/\">Impulse Tracker</a> clone with a skinned GUI and some DSP features"
         url: "http://chibitracker.berlios.de/"
+
+      - name: "FastTracker II & ProTracker clones"
+        description: "8bitbubsy's multi-platfom rewrite of the original ProTracker and FastTracker II trackers."
+        url: "http://16-bits.org"
 
       - name: "Hively Tracker"
         description: "A groovy synth tracker for Amiga systems based on <a href=\"http://www.amigau.com/amigarealm/ahx/main.html\">AHX</a>"
