@@ -6,15 +6,12 @@ navigation_weight: 4
 {::options parse_block_html="true" /}
 
 ### MilkyTracker
+
 <div class="section">
 <img src="{% link img/128xreflection.png %}" style="float: right;" alt="Don't look at me, look at the cool downloads!" />
-[Changes in v0.90.86][changelog]
+Since v1.0.0 the MilkyTracker binaries and source code are available for download from the GitHub [release](https://github.com/milkytracker/MilkyTracker/releases) page. Older versions will remain on this page.
 
-#### Binaries:
-  * [Mac OS X Universal][current-mac]
-  * [Microsoft Windows][current-win] (NT, 200x, XP, Vista &amp; 7)
-
-#### Also available in these distributions:
+#### Available in these distributions:
   * [ArchLinux Community Repository][dist-aur]
     * [i686][dist-aur-i686]
     * [x86_64][dist-aur-x86_64]
@@ -28,21 +25,18 @@ navigation_weight: 4
   * [SUSE][dist-suse]
   * [Ubuntu][dist-ubuntu] (v0.90.85 @ [Launchpad][dist-launchpad])
 
-#### Source:
-  * Tarballs
-      * [milkytracker-0.90.86.tar.bz2][current-src-tar-bz2]
-      * [milkytracker-0.90.86.tar.gz][current-src-tar-gz]
-  * Repository
-      * [GitHub][current-src-github]
+#### Old Binaries (v0.90.86):
+  * [Mac OS X Universal][current-mac]
+  * [Microsoft Windows][current-win] (NT, 200x, XP, Vista &amp; 7)
 
-#### Old Binaries (0.90.85):
+#### Older Binaries (0.90.85):
   * [Mac OS X Universal][0.90.85-mac]
       * [10.4 Tiger compatible version (thanks maep)][0.90.85-mac-tiger]
   * [Ubuntu][0.90.85-ubuntu-karmic] (Built on Ubuntu 9.10 Karmic Koala, may not run on other versions)
   * [Microsoft Windows][0.90.85-win] (NT, 200x, XP, Vista &amp; 7)
   * [Haiku][0.90.85-haiku]
 
-#### Older Binaries (0.90.80):
+#### Even Older Binaries (0.90.80):
   * [AmigaOS 4][0.90.80-amigaos4]
   * [Mac OS X Universal][0.90.80-mac]
       * [G3 compatible version][0.90.80-mac-g3]
