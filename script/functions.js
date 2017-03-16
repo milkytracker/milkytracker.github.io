@@ -39,12 +39,12 @@ function validateLogin()
 	}
 	else
 	{
-		loginForm.target='PJIRC';
+		loginForm.target='irc';
 	
 		window.open
 		(
+			'espernet',
 			'irc',
-			'PJIRC',
 			'width=640, height=480, scrollbars=0, status=1, toolbar=0, location=0, menubar=0, directories=0, resizable=1'
 		);
 		return true;
