@@ -19,6 +19,10 @@ Since v1.0.0 the MilkyTracker binaries and source code are available for downloa
   * [Enlisy][dist-enlisy]
   * [FreeBSD][dist-freebsd]
   * [Gentoo][dist-gentoo]
+  * [Guix and GuixSD][dist-guix]
+    * [i686][dist-guix-i686]
+    * [x86_64][dist-guix-x86_64]
+    * [armhf][dist-guix-armhf]
   * [OpenBSD][dist-openbsd]
   * [pkgsrc][dist-pkgsrc] (multiplatform, native to NetBSD and DragonflyBSD)
   * [ROSA][dist-rosa]
@@ -123,6 +127,10 @@ Fill your PlayStation Portable with the milky goodness of a kickass module playe
 [dist-enlisy]: http://enlisy.org/py-bin/packages.py?id=1100
 [dist-freebsd]: http://www.freshports.org/audio/milkytracker/
 [dist-gentoo]: http://packages.gentoo.org/package/media-sound/milkytracker
+[dist-guix]: https://www.gnu.org/software/guix/packages/m.html
+[dist-guix-x86_64]: https://hydra.gnu.org/job/gnu/master/milkytracker-1.0.0.x86_64-linux
+[dist-guix-i686]: https://hydra.gnu.org/job/gnu/master/milkytracker-1.0.0.i686-linux
+[dist-guix-armhf]: https://hydra.gnu.org/job/gnu/master/milkytracker-1.0.0.armhf-linux
 [dist-openbsd]: http://openports.se/audio/milkytracker
 [dist-pkgsrc]: http://pkgsrc-wip.sf.net/
 [dist-rosa]: http://modarchive.org/index.php?topic=3331.0
