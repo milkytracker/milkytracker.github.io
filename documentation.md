@@ -15,7 +15,7 @@ navigation_weight: 5
    * A colourful [command reference][command-ref] produced by [Sahemera][sahemera]
 
 #### Additional reading:
-  * [MilkyTracker Basic Tutorial &#9658;][basic-tutorial] by jivatma (also available in German)
+  * [MilkyTracker Basic Tutorial &#9658;][basic-tutorial] by jivatma (web archive)
   * [Fasttracker II Manual][ft2-manual] (.PDF)
   * [Techniques of Chipping][techniques-of-chipping] by Vhiiula/Analogik
   * Tracker's Handbook v0.5 by Cools/Hertz
@@ -36,7 +36,7 @@ navigation_weight: 5
 [command-ref]: {% link docs/milky_tracker_effect_reference_guide_by_sahemera.png %}
 [sahemera]: http://sahemera.deviantart.com/
 
-[basic-tutorial]: http://www.seele07.de/milkytutorial/index.html
+[basic-tutorial]: https://web.archive.org/web/20160102043513/http://www.seele07.de/milkytutorial/data/milkytutorial.zip
 [ft2-manual]: {% link docs/FT2.pdf %}
 [techniques-of-chipping]: {% link docs/Vhiiula-TechniquesOfChipping.txt %}
 [trackers-handbook-html]: {% link docs/TrackersHandbook05.zip %}
