@@ -16,7 +16,6 @@ Since v1.0.0 the MilkyTracker binaries and source code are available for downloa
     * [i686][dist-aur-i686]
     * [x86_64][dist-aur-x86_64]
   * [Debian][dist-debian]
-  * [Enlisy][dist-enlisy]
   * [FreeBSD][dist-freebsd]
   * [Gentoo][dist-gentoo]
   * [Guix and GuixSD][dist-guix]
@@ -124,7 +123,6 @@ Fill your PlayStation Portable with the milky goodness of a kickass module playe
 [dist-aur-i686]: http://www.archlinux.org/packages/community/i686/milkytracker/
 [dist-aur-x86_64]: http://www.archlinux.org/packages/community/x86_64/milkytracker/
 [dist-debian]: http://packages.debian.org/sid/milkytracker
-[dist-enlisy]: http://enlisy.org/py-bin/packages.py?id=1100
 [dist-freebsd]: http://www.freshports.org/audio/milkytracker/
 [dist-gentoo]: http://packages.gentoo.org/package/media-sound/milkytracker
 [dist-guix]: https://www.gnu.org/software/guix/packages/m.html
