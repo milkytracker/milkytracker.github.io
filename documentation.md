@@ -7,6 +7,7 @@ navigation_weight: 5
    * [ChangeLog][changelog]
    * [Frequently Asked Questions][faq]
    * [Manual][manual]
+   * [Wiki MilkyTracker guide][wiki]
    * Quick reference printouts (.PDF) and [how to use them][quick-ref-readme]
        * [MilkyTracker edit mode on OS X][quick-ref-milky-mac]
        * [MilkyTracker edit mode on Windows &amp; SDL][quick-ref-milky-winsdl]
@@ -27,6 +28,7 @@ navigation_weight: 5
 
 [changelog]: {% link docs/ChangeLog.md %}
 [faq]: {% link docs/FAQ.html %}
+[wiki]: https://github.com/milkytracker/MilkyTracker/wiki/MilkyTracker-Guide
 [manual]: {% link docs/MilkyTracker.html %}
 [quick-ref-readme]: {% link docs/QuickReferenceReadMe.txt %}
 [quick-ref-milky-mac]: {% link docs/QuickReferenceMTOSX.pdf %}
