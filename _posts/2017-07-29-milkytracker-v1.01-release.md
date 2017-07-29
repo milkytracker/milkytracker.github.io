@@ -2,7 +2,7 @@
 layout: "post"
 title: "Version 1.01 out now"
 author: "Deltafire"
-comment: "https://modarchive.org/forums/index.php?topic=3993"
+comment: "https://modarchive.org/forums/index.php?topic=4050.0"
 date: "2017-07-29"
 categories: "news"
 ---
