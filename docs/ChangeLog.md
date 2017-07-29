@@ -37,6 +37,7 @@ permalink: docs/ChangeLog.html
 *  Off-by-semitone issue in GUS patch loader
 *  Corrupt display with window sizes that aren't multiples of 4
 *  Windows: Window position gradually moving off-screen on restarts
+</div>
 
 ### 11/03/2017 (v1.00):
 <div class="section">
