@@ -7,7 +7,7 @@ date: "2017-07-29"
 categories: "news"
 ---
 
-I'm am pleased to announce the latest release of MilkyTracker - version 1.01.
+I am pleased to announce the latest release of MilkyTracker - version 1.01.
 
 This release incorporates the usual [bug-fixes][gitissues] for issues reported on our GitHub tracker, in addition to the following new features:
 
