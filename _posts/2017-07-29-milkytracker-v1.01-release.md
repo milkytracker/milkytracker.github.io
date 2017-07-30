@@ -23,6 +23,6 @@ Please refer to our detailed [ChangeLog]({% link docs/ChangeLog.md %}) for detai
 
 Happy tracking!
 
-[gitrel]: https://github.com/milkytracker/MilkyTracker/releases/tag/v1.01
+[gitrel]: https://github.com/milkytracker/MilkyTracker/releases/tag/v1.01.00
 [gitpull]: https://github.com/milkytracker/MilkyTracker/pulls?q=is%3Apr+is%3Aclosed
 [gitissues]: https://github.com/milkytracker/MilkyTracker/issues?q=is%3Aissue+is%3Aclosed
