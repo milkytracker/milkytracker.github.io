@@ -38,6 +38,7 @@ Since v1.0.0 the MilkyTracker binaries and source code are available for downloa
   * [Ubuntu][0.90.85-ubuntu-karmic] (Built on Ubuntu 9.10 Karmic Koala, may not run on other versions)
   * [Microsoft Windows][0.90.85-win] (NT, 200x, XP, Vista &amp; 7)
   * [Haiku][0.90.85-haiku]
+  * [Symbian 9.x platform ( aka S60v3 & S60v5)][0.90.85-symbian]
 
 #### Even Older Binaries (0.90.80):
   * [AmigaOS 4][0.90.80-amigaos4]
@@ -145,7 +146,7 @@ Fill your PlayStation Portable with the milky goodness of a kickass module playe
 [0.90.85-ubuntu-karmic]: {% link files/milkytracker-0.90.85-ubuntu.tbz %}
 [0.90.85-win]: {% link files/milkytracker-0.90.85-winnt.zip %}
 [0.90.85-haiku]: {% link files/MilkyTracker-0.90.85-haiku-2.zip %}
-
+[0.90.85-symbian]: {% link files/MilkyTracker_s60v3.SISx %}
 [0.90.80-amigaos4]: {% link files/MilkyTracker_AmigaOS4_2008_04_13.lha %}
 [0.90.80-mac]: {% link files/MilkyTracker_OSX_universal_2008_04_13.tgz %}
 [0.90.80-mac-g3]: {% link files/MilkyTracker_OSX_universal_G3.zip %}
