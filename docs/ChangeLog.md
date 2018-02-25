@@ -6,7 +6,7 @@ permalink: docs/ChangeLog.html
 ---
 {::options parse_block_html="true" /}
 
-### 24/04/2018 (v1.02):
+### 24/02/2018 (v1.02):
 <div class="section">
 
 #### What's new:
