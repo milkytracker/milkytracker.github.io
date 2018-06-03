@@ -32,7 +32,7 @@
 
   - name: "Portable"
     path: "portable"
-    description: "Here's what MilkyTracker and its different views look like on desktop platforms:"
+    description: "Here's what MilkyTracker and its different views look like on portable platforms:"
     images:
       - filename: "raina-Default.png"
         author: "raina"
