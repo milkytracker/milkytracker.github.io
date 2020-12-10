@@ -6,10 +6,10 @@ permalink: docs/ChangeLog.html
 ---
 {::options parse_block_html="true" /}
 
-## 12/12/2020 (v1.03):
+### 12/12/2020 (v1.03):
 <div class="section">
 
-### What's new:
+#### What's new:
 * Improved FT2 accuracy
 * Alt-Backspace alternative for insert keybindings
 * Improved mousewheel / touchpad scrolling for Windows/OSX/SDL2
@@ -21,7 +21,7 @@ permalink: docs/ChangeLog.html
 * Allow selections by clicking outside the pattern bounds
 * Easier and more intuitive sample selection resizing
 
-### Bugs fixed:
+#### Bugs fixed:
 * Various compatibility fixes
 * Jam channels stop working after applying settings
 * Improper WAV chunk parsing for odd sizes
