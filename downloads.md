@@ -9,24 +9,32 @@ navigation_weight: 4
 
 <div class="section">
 <img src="{% link img/128xreflection.png %}" style="float: right;" alt="Don't look at me, look at the cool downloads!" />
-Since v1.0.0 the MilkyTracker binaries and source code are available for download from the GitHub [release](https://github.com/milkytracker/MilkyTracker/releases) page. Older versions will remain on this page.
+The MilkyTracker source code is available for download from the GitHub [release](https://github.com/milkytracker/MilkyTracker/releases) page:
+
+* [milkytracker-latest-darwin-arm64.dmg.zip](https://github.com/milkytracker/MilkyTracker/releases/tag/v1.03.00)
+* [milkytracker-latest-macos.dmg](https://github.com/milkytracker/MilkyTracker/releases/tag/v1.03.00)
+* [milkytracker-latest-win32.zip](https://github.com/milkytracker/MilkyTracker/releases/tag/v1.03.00)
+* [milkytracker-latest-win64.zip](https://github.com/milkytracker/MilkyTracker/releases/tag/v1.03.00)
 
 #### Available in these distributions:
-  * [ArchLinux Community Repository][dist-aur]
-    * [i686][dist-aur-i686]
-    * [x86_64][dist-aur-x86_64]
-  * [Debian][dist-debian]
-  * [FreeBSD][dist-freebsd]
-  * [Gentoo][dist-gentoo]
-  * [Guix and GuixSD][dist-guix]
-    * [i686][dist-guix-i686]
-    * [x86_64][dist-guix-x86_64]
-    * [armhf][dist-guix-armhf]
-  * [OpenBSD][dist-openbsd]
-  * [pkgsrc][dist-pkgsrc] (multiplatform, native to NetBSD and DragonflyBSD)
-  * [ROSA][dist-rosa]
-  * [SUSE][dist-suse]
-  * [Ubuntu][dist-ubuntu] (v0.90.85 @ [Launchpad][dist-launchpad])
+
+[![Packaging status](https://repology.org/badge/vertical-allrepos/milkytracker.svg)](https://repology.org/project/milkytracker/versions)
+
+* [ArchLinux Community Repository][dist-aur]
+  * [i686][dist-aur-i686]
+  * [x86_64][dist-aur-x86_64]
+* [Debian][dist-debian]
+* [FreeBSD][dist-freebsd]
+* [Gentoo][dist-gentoo]
+* [Guix and GuixSD][dist-guix]
+  * [i686][dist-guix-i686]
+  * [x86_64][dist-guix-x86_64]
+  * [armhf][dist-guix-armhf]
+* [OpenBSD][dist-openbsd]
+* [pkgsrc][dist-pkgsrc] (multiplatform, native to NetBSD and DragonflyBSD)
+* [ROSA][dist-rosa]
+* [SUSE][dist-suse]
+* [Ubuntu][dist-ubuntu] (v0.90.85 @ [Launchpad][dist-launchpad])
 
 #### Old Binaries (v0.90.86):
   * [Mac OS X Universal][current-mac]
