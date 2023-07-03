@@ -18,8 +18,6 @@ The MilkyTracker source code is available for download from the GitHub [release]
 
 #### Available in these distributions:
 
-[![Packaging status](https://repology.org/badge/vertical-allrepos/milkytracker.svg)](https://repology.org/project/milkytracker/versions)
-
 * [ArchLinux Community Repository][dist-aur]
   * [i686][dist-aur-i686]
   * [x86_64][dist-aur-x86_64]
@@ -35,6 +33,10 @@ The MilkyTracker source code is available for download from the GitHub [release]
 * [ROSA][dist-rosa]
 * [SUSE][dist-suse]
 * [Ubuntu][dist-ubuntu] (v0.90.85 @ [Launchpad][dist-launchpad])
+
+<br>
+[![Packaging status](https://repology.org/badge/vertical-allrepos/milkytracker.svg)](https://repology.org/project/milkytracker/versions)
+<br>
 
 #### Old Binaries (v0.90.86):
   * [Mac OS X Universal][current-mac]

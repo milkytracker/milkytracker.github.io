@@ -35,13 +35,17 @@
         url: "http://www.modules.pl/"
 
       - name: "Modulez"
-        description: "A music community focusing on the demoscene"
-        url: "http://www.modulez.org/"
+        description: "#retired A music community focusing on the demoscene"
+        url: "https://web.archive.org/web/20120321143341/http://metamacro.com/modulez"
         banner: "Modulez.gif"
 
+      - name: "United Trackers"
+        description: #retired german tracker site"
+        url: "https://web.archive.org/web/20220330071748/http://united-trackers.org/"
+
       - name: "OrgasMOD"
-        description: "Favorites of TMA members, cream of the crop hand picked from the massive archive"
-        url: "http://orgasmod.com/"
+        description: "#retired Favorites of TMA members, cream of the crop hand picked from the massive archive"
+        url: "https://web.archive.org/web/20161021003034/http://orgasmod.com"
 
       - name: "The Mod Archive"
         description: "An ever-expanding module collection with great search and community features"
