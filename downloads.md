@@ -13,8 +13,9 @@ The MilkyTracker source code is available for download from the GitHub [release]
 
 * [milkytracker-latest-darwin-arm64.dmg.zip](https://github.com/milkytracker/MilkyTracker/releases/tag/v1.03.00)
 * [milkytracker-latest-macos.dmg](https://github.com/milkytracker/MilkyTracker/releases/tag/v1.03.00)
-* [milkytracker-latest-win32.zip](https://github.com/milkytracker/MilkyTracker/releases/tag/v1.03.00)
-* [milkytracker-latest-win64.zip](https://github.com/milkytracker/MilkyTracker/releases/tag/v1.03.00)
+* [milkytracker-latest-win32.zip](https://github.com/milkytracker/MilkyTracker/releases/tag/v1.04.00)
+* [milkytracker-latest-win64.zip](https://github.com/milkytracker/MilkyTracker/releases/tag/v1.04.00)
+* [milkytracker-latest-x86_64.AppImage [linux]](https://github.com/milkytracker/MilkyTracker/releases/download/v1.04.00/Milkytracker-x86_64.AppImage)
 
 #### Available in these distributions:
 
