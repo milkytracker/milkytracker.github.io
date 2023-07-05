@@ -5,7 +5,8 @@ header: Donations
 navigation_weight: 8
 ---
 
-A word from pailes:
+<b>A word from pailes:</b>
+
 
 If you like MilkyTracker and you're looking for a way to support its development, why not donate something using PayPal?
 The PayPal account is <span class="email">ten.enobxn@retep</span>. Donations of any amount are appreciated and they keep me going. Also, when you donate, your feature requests will always be on top of my list - isn't that a neat offer?
@@ -20,6 +21,6 @@ Don't worry, MilkyTracker will always be free because I really enjoy working on 
     </div>
 </form>
 
-A word from coderofsalvation:
+<b>A word from coderofsalvation / Leon Du Star:</b>
 
-If you want more [experiments / builds](https://github.com/coderofsalvation/MilkytrackerX) and/or [video content](https://www.youtube.com/watch?v=as9Ii0pt8dE&list=PLj__bRmn2ZFzW6WdE0lxw872XnEtsDdhM) feel free to sponsor [me here](https://leondustar.gumroad.com/l/hGYGh)
+If you want more <a href="https://github.com/coderofsalvation/MilkytrackerX" target="_blank">experiments / builds</a> and/or <a target="_blank" href="https://www.youtube.com/watch?v=as9Ii0pt8dE&list=PLj__bRmn2ZFzW6WdE0lxw872XnEtsDdhM">video content & updates</a> feel free to sponsor [me here](https://leondustar.gumroad.com/l/hGYGh)
