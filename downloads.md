@@ -11,12 +11,13 @@ navigation_weight: 4
 <img src="{% link img/128xreflection.png %}" style="float: right;" alt="Don't look at me, look at the cool downloads!" />
 The MilkyTracker source code is available for download from the GitHub [release](https://github.com/milkytracker/MilkyTracker/releases) page:
 
-* [milkytracker-latest-darwin-arm64.dmg.zip](https://github.com/milkytracker/MilkyTracker/releases/tag/v1.03.00)
-* [milkytracker-latest-macos.dmg](https://github.com/milkytracker/MilkyTracker/releases/tag/v1.03.00)
+* [milkytracker-latest-darwin-12.6.7-x86.dmg](https://github.com/milkytracker/MilkyTracker/releases/tag/v1.04.00)
 * [milkytracker-latest-win32.zip](https://github.com/milkytracker/MilkyTracker/releases/tag/v1.04.00)
 * [milkytracker-latest-win64.zip](https://github.com/milkytracker/MilkyTracker/releases/tag/v1.04.00)
 * [milkytracker-latest-x86_64.AppImage [linux]](https://github.com/milkytracker/MilkyTracker/releases/download/v1.04.00/Milkytracker-x86_64.AppImage)
 * [milkytracker-latest-m68k-amigaos.lha](https://github.com/AmigaPorts/MilkyTracker/releases)
+* [milkytracker-v1.03-macos.dmg](https://github.com/milkytracker/MilkyTracker/releases/tag/v1.03.00)
+* [milkytracker-v1.03-darwin-arm64.dmg.zip](https://github.com/milkytracker/MilkyTracker/releases/tag/v1.03.00)
 
 #### Available in these distributions:
 
