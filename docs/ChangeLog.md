@@ -6,6 +6,30 @@ permalink: docs/ChangeLog.html
 ---
 {::options parse_block_html="true" /}
 
+## 05/07/2023 (v1.04):
+<div class="section">
+
+#### What's new:
+* [pattern-editor: stamp-like drag-drop selections](https://github.com/milkytracker/MilkyTracker/pull/277)
+* [UX: responsive file dialog](https://github.com/milkytracker/MilkyTracker/pull/285)
+* [copy/pasting sample now reflects relative note too](https://github.com/milkytracker/MilkyTracker/pull/290)
+* [liveperformance: shortcuts for channel highlighting/muting ](https://github.com/milkytracker/MilkyTracker/pull/289)
+* [linux: midi-in port selection](https://github.com/milkytracker/MilkyTracker/pull/289)
+* [sample-editor: fadein, fadeout, loop fold](https://github.com/milkytracker/MilkyTracker/pull/299)
+* [sample-editor: improved algo & UX of compressor](https://github.com/milkytracker/MilkyTracker/pull/300)
+* [improved navigation milkytracker-keyboard](https://github.com/milkytracker/MilkyTracker/pull/288)
+* UX: added CTA's in instrument editor for new users
+
+## Bugs fixed
+* switch to C11 when compiling RTMIDI
+* [ability to run in non-opengl mode again](https://github.com/milkytracker/MilkyTracker/pull/289)
+* Fix uninitialized read in piano control (nyanpasu64 ❤)
+* Fix About screen reading uninitialized memory (nyanpasu64 ❤)
+* Fix uninitialized fields in PPListBox (nyanpasu64 ❤)
+* Fix uninitialized fields in PatternEditorControl (nyanpasu64 ❤)
+* fix wrong cwd when loading file from command line (mothcompute ❤)
+</div>
+
 ### 12/12/2020 (v1.03):
 <div class="section">
 
