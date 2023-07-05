@@ -22,7 +22,7 @@ permalink: docs/ChangeLog.html
 
 ## Bugs fixed
 * switch to C11 when compiling RTMIDI
-* [ability to run in non-opengl mode again](https://github.com/milkytracker/MilkyTracker/pull/289)
+* [ability to run in non-opengl mode again](https://github.com/milkytracker/MilkyTracker/pull/292)
 * Fix uninitialized read in piano control (nyanpasu64 ❤)
 * Fix About screen reading uninitialized memory (nyanpasu64 ❤)
 * Fix uninitialized fields in PPListBox (nyanpasu64 ❤)
