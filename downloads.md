@@ -29,6 +29,7 @@ The MilkyTracker source code is available for download from the GitHub [release]
 
 #### Available in these distributions:
 
+* [Nix](https://github.com/NixOS/nixpkgs/blob/master/pkgs/applications/audio/milkytracker/default.nix)
 * [ArchLinux Community Repository][dist-aur]
   * [i686][dist-aur-i686]
   * [x86_64][dist-aur-x86_64]
