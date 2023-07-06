@@ -24,8 +24,8 @@ The MilkyTracker source code is available for download from the GitHub [release]
 
 | mac arch | workaround |
 |-|-|
-| arm64 | `run xattr -d com.apple.quarantine /Applications/Milkytracker.app` |
 | x86_64 |  right-click > Open on first launch to bypass `developer cannot be verified` |
+| x86_64 + arm64 | `run xattr -d com.apple.quarantine /Applications/Milkytracker.app` |
 
 #### Available in these distributions:
 
