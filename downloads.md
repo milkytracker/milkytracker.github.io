@@ -20,6 +20,13 @@ The MilkyTracker source code is available for download from the GitHub [release]
 * [milkytracker-latest-m68k-amigaos.lha](https://github.com/AmigaPorts/MilkyTracker/releases)
 * [milkytracker-v1.03-macos.dmg](https://github.com/milkytracker/MilkyTracker/releases/tag/v1.03.00)
 
+> MAC users: feel free to provide us extra builds [here](https://github.com/milkytracker/MilkyTracker/issues/315) or [donate](https://milkytracker.org/donate/) so we can get an apple account:
+
+| mac arch | workaround |
+|-|-|
+| arm64 | `run xattr -d com.apple.quarantine /Applications/Milkytracker.app` |
+| x86_64 |  right-click > Open on first launch to bypass `developer cannot be verified` |
+
 #### Available in these distributions:
 
 * [ArchLinux Community Repository][dist-aur]
