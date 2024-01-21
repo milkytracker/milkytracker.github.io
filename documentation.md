@@ -42,7 +42,7 @@ navigation_weight: 5
 [ft2-manual]: {% link docs/FT2.pdf %}
 [techniques-of-chipping]: {% link docs/Vhiiula-TechniquesOfChipping.txt %}
 [trackers-handbook-html]: {% link docs/TrackersHandbook05.zip %}
-[trackers-handbook-online]: http://www.modplug.com/mods/handbook/handbook.htm
+[trackers-handbook-online]: https://resources.openmpt.org/tracker_handbook/handbook.htm
 [trackers-handbook-text]: {% link docs/TrackersHandbook05.txt.zip %}
 [tracking-principles]: {% link docs/Tracking Principles.html %}
 [trax-weekly]: {% link docs/TraxWeekly.zip %}
