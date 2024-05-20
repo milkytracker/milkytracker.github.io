@@ -137,7 +137,7 @@ Fill your PlayStation Portable with the milky goodness of a kickass module playe
 </div>
 -->
 
-*¶[P/PC]: Pocket PC
+*[P/PC]: Pocket PC
 *[H/PC]: Handheld PC
 
 [changelog]: {% link docs/ChangeLog.md %}
