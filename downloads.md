@@ -82,8 +82,6 @@ Often requested, here are sounds, samples and instruments for use in MilkyTracke
 
 ### Music
 
-> Did you know you can mount [modland.com](https://modland.com) as a network-drive and load million songs into milkytracker directly? In windows just enter `ftp.modland.com` when adding a network-drive in explorer, or mount `http://modland.com` using [rclone](https://rclone.org) on Linux.
-
 <div class="section">
   * [Example songs][music-example-songs] included in binary distributions. The .ZIP file contains the following .XM tunes:
       * Ampli, Kmuland &amp; raina &ndash; The Day They Landed
@@ -117,6 +115,8 @@ Often requested, here are sounds, samples and instruments for use in MilkyTracke
 [![Some Rights Reserved]({% link img/somerights20.png %})][creative-commons]
 All music is licensed under the  
 [Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License][creative-commons].
+
+> Did you know you can mount [modland.com](https://modland.com) as a network-drive and load million songs into milkytracker directly? In windows just enter `ftp.modland.com` when adding a network-drive in explorer, or mount `http://modland.com` using [rclone](https://rclone.org) on Linux.
 </div>
 
 <!--
@@ -137,7 +137,7 @@ Fill your PlayStation Portable with the milky goodness of a kickass module playe
 </div>
 -->
 
-*[P/PC]: Pocket PC
+*¶[P/PC]: Pocket PC
 *[H/PC]: Handheld PC
 
 [changelog]: {% link docs/ChangeLog.md %}
