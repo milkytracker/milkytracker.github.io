@@ -75,6 +75,7 @@ The MilkyTracker source code is available for download from the GitHub [release]
 <div class="section">
 Often requested, here are sounds, samples and instruments for use in MilkyTracker. Hosted by the illustrious [tracker.modarchive.org][modarchive-tracker].
 
+  * [Jungle Jungle Samplepack][samples-jungle], the famous Jungle samplepack from Blu Mar Ten
   * [KIArchive][samples-kiarchive], the once sunken galleon of XI instruments, now resurfaced.
   * [Waveworld][samples-waveworld], the big and beautiful high-quality sound sample collection.
   * [Woolyss's chiptune samples][samples-woolyss], from [woolyss][Woolyss].
@@ -181,6 +182,7 @@ Fill your PlayStation Portable with the milky goodness of a kickass module playe
 
 [modarchive-tracker]: http://tracker.modarchive.org
 [samples-kiarchive]: http://tracker.modarchive.org/torrents/kiarchive.zip.torrent
+[samples-jungle]: https://soundpacks.com/free-sound-packs/junglejungle-1989-1999-sample-pack
 [samples-waveworld]: http://tracker.modarchive.org/torrents/TMA-waveworld.zip.torrent
 [samples-woolyss]: http://tracker.modarchive.org/torrents/woolyss-chiptune-samples.zip.torrent
 [woolyss]: http://woolyss.com
