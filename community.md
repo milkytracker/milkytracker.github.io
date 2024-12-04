@@ -8,12 +8,14 @@ navigation_weight: 6
 Someday we need to bridge all this [probably with Matrix]:
 
 ### Matrix chat
-
+<div class="section">
 Here's the [matrix chat](https://matrix.to/#/#milkytracker:matrix.org) for the #milkytracker channel
+</div>
 
 ### Discord chat
-
+<div class="section">
 Here's the [discord invite](https://discord.gg/YhT7SXKBh7) for the #milkytracker channel
+</div>
 
 ### IRC
 <div class="section">
