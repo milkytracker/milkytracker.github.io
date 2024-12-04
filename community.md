@@ -62,6 +62,12 @@ Hosted at [The Mod Archive][mod-archive].
     //]]>
 </script>
 
+
+### Developers
+<div class="section">
+For developers talk / todos (feel free to help out) see the [issuetracker](https://github.com/milkytracker/MilkyTracker/issues)
+</div>
+
 *[IRC]: Internet Relay Chat
 
 [forum]: http://modarchive.org/forums/index.php?board=30.0
