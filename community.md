@@ -5,21 +5,13 @@ navigation_weight: 6
 ---
 {::options parse_block_html="true" /}
 
-### Forum
-<div class="section">
-[![MilkyTracker Forum]({% link img/forumpeek.png %})][forum]
-Feel lost and need help?  
-Found a bug and want to report it?  
-Is there a feature you would like to see in MilkyTracker?  
-Want to show off your modules or just say "hi" to the people making the tracker?
+Someday we need to bridge all this [probably with Matrix]:
 
-You can do all that and more if you just head on down to <a href="http://modarchive.org/forums/index.php?board=30.0">our forum</a> and express yourself.
+### Matrix chat
 
-{: style="font-size: 8pt;"}
-Hosted at [The Mod Archive][mod-archive].
-</div>
+Here's the [matrix chat](https://matrix.to/#/#milkytracker:matrix.org) for the #milkytracker channel
 
-### Discord
+### Discord chat
 
 Here's the [discord invite](https://discord.gg/YhT7SXKBh7) for the #milkytracker channel
 
@@ -46,6 +38,21 @@ We don't need this, do we?
 You can also contact the MilkyTracker team by email at <span class="email">ten.rekcartyklim@troppus</span>. If the address looks weird, maybe you should look at it from <cite>reverse</cite> angle.
 </div>
 -->
+
+### Forum
+
+<div class="section">
+[![MilkyTracker Forum]({% link img/forumpeek.png %})][forum]
+Feel lost and need help?  
+Found a bug and want to report it?  
+Is there a feature you would like to see in MilkyTracker?  
+Want to show off your modules or just say "hi" to the people making the tracker?
+
+You can do all that and more if you just head on down to <a href="http://modarchive.org/forums/index.php?board=30.0">our forum</a> and express yourself.
+
+{: style="font-size: 8pt;"}
+Hosted at [The Mod Archive][mod-archive].
+</div>
 
 <script type="text/javascript">
     //<![CDATA[
