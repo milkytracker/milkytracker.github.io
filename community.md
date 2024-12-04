@@ -19,7 +19,11 @@ You can do all that and more if you just head on down to <a href="http://modarch
 Hosted at [The Mod Archive][mod-archive].
 </div>
 
-### Chatroom
+### Discord
+
+Here's the [discord invite](https://discord.gg/YhT7SXKBh7) for the #milkytracker channel
+
+### IRC
 <div class="section">
 {: style="float: right;"}
 ![#MilkyTracker Chatroom]({% link img/ircy.png %})
