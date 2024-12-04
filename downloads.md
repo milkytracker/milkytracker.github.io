@@ -20,7 +20,7 @@ The MilkyTracker source code is available for download from the GitHub [release]
 * [milkytracker-latest-m68k-amigaos.lha](https://github.com/AmigaPorts/MilkyTracker/releases)
 * [milkytracker-v1.03-macos.dmg](https://github.com/milkytracker/MilkyTracker/releases/tag/v1.03.00)
 
-> Mac users: feel free to provide us extra builds [here](https://github.com/milkytracker/MilkyTracker/issues/315) or [donate](https://milkytracker.org/donate/) so we can get an apple account:
+> Mac users: feel free to provide us extra builds [here](https://github.com/milkytracker/MilkyTracker/issues/341) or [donate](https://milkytracker.org/donate/) so we can get an apple account:
 
 | mac arch | workaround |
 |-|-|
