@@ -6,6 +6,12 @@ navigation_weight: 1
 
 MilkyTracker is an open source, multi-platform music application for creating [.MOD][mod-file-format] and [.XM][xm-file-format] [module files](module-files). It attempts to recreate the module replay and user experience of the popular DOS program [Fasttracker II][fast-tracker], with special playback modes available for improved Amiga [ProTracker][what-is-protracker] 2/3 compatibility.
 
+<div style="text-align:center">
+    <b style="font-size:11px">podcast introduction</b><br>
+    <audio controls src="https://xrsh.codeberg.page/xrsh-media/podcast/xrsh_introduction.mp3" type="audio/mpeg">
+    </audio>
+</div>
+
 #### MilkyTracker's key features:
   * Fasttracker II like, custom graphical user interface with context menus
   * Supported on multiple platforms including portable devices
