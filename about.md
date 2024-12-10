@@ -8,7 +8,7 @@ MilkyTracker is an open source, multi-platform music application for creating [.
 
 <div style="text-align:center">
     <b style="font-size:11px">podcast introduction</b><br>
-    <audio controls src="https://xrsh.codeberg.page/xrsh-media/podcast/xrsh_introduction.mp3" type="audio/mpeg">
+    <audio controls src="https://milkytracker.org/media/podcast/milkytracker_introduction.mp3" type="audio/mpeg">
     </audio>
 </div>
 
