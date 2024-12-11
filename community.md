@@ -22,15 +22,7 @@ Here's the [discord invite](https://discord.gg/YhT7SXKBh7) for the #milkytracker
 {: style="float: right;"}
 ![#MilkyTracker Chatroom]({% link img/ircy.png %})
 
-Join us live on the community IRC channel. If you already have an [IRC client program][irc-clients], just join #MilkyTracker on [EsperNet] ([irc.esper.net]). If you just want to peek inside without installing anything, you can do so by choosing a screen name and clicking Connect.
-<form id="login" action="http://webchat.esper.net/" onsubmit="javascript:return validateLogin();">
-Screen name:
-<input type="text" id="nick" name="nick" maxlength="30" style="width: 20ex;" />
-<input id="connect" type="submit" value="Connect" />
-<input name="channels" type="hidden" value="MilkyTracker" />
-<input name="prompt" type="hidden" value="0" />
-<input name="bg_color" type="hidden" value="223344" />
-</form>
+Join us live on the community IRC channel. If you already have an [IRC client program][irc-clients], just join #MilkyTracker on [EsperNet] ([irc.esper.net]).
 </div>
 
 <!-- 
