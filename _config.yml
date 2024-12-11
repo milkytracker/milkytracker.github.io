@@ -17,7 +17,7 @@ title: MilkyTracker
 description: > # this means to ignore newlines until "baseurl:"
   Open source multi-platform Fasttracker II compatible music application.
 keywords: MilkyTracker, FT2, Fasttracker II, Fast Tracker, tracker, tracking, modules, mods, .XM, .MOD, demoscene, chiptune
-current_version: v1.04
+current_version: v1.05
 permalink: pretty
 
 # Build settings
