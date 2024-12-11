@@ -19,7 +19,7 @@ body
 	padding: 0;
 	color: #fff;
 	font-size: 15px;
-  line-height:23px;
+	line-height:23px;
 	height: 100%;
 }
 
@@ -188,7 +188,7 @@ h3
 	border: 1px outset #ace;
 	border-bottom: none;
 	position: relative;
-	bottom: -1px;
+	bottom: -3px;
 	z-index: 2;
 	background-color: #234;
 	background-image: url(../img/gradient.png);
