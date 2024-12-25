@@ -1,5 +1,5 @@
 [playlist]
-numberofentries=10
+numberofentries=14
 file1=http://www.milkytracker.org/songs/Decibelter-Cosmic_'Wegian_Mamas.mp3
 title1=Decibelter - Cosmic 'Wegian Mamas
 length1=118.073
@@ -30,3 +30,11 @@ length9=63.085
 file10=http://www.milkytracker.org/songs/Strobe_&_Rebb-Melonia.mp3
 title10=Strobe & Rebb - Melonia
 length10=153.077
+file11=https://milkytracker.org/songs/Mav-Atlantis_(LDS_2023rmx).mp3
+title11=Mav - Atlantis (Leon Du Star 2023 remix)
+file12=https://milkytracker.org/songs/Leon_Du_Star-ur_what_u_think.mp3
+title12=Leon Du Star - ur what u think
+file13=https://milkytracker.org/songs/Leon_Du_Star-Tableleg_purple_toe.mp3
+title13=Leon Du Star - Tableleg purple toe
+file14=https://milkytracker.org/songs/Leon_Du_Star-Full_circle.mp3
+title14=Leon Du Star - Fulle circle
