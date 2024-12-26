@@ -8,6 +8,12 @@ navigation_weight: 5
    * [Frequently Asked Questions][faq]
    * [Manual][manual]
    * [Wiki MilkyTracker guide][wiki]
+
+#### By example
+
+* [Prophet/Juno Arp-like synths in milkytracker](docs/example-prophet-juno-arp-like-synths-in-milkytracker.md)
+
+#### Cheatsheets
    * Quick reference printouts (.PDF) and [how to use them][quick-ref-readme]
        * [MilkyTracker edit mode on OS X][quick-ref-milky-mac]
        * [MilkyTracker edit mode on Windows &amp; SDL][quick-ref-milky-winsdl]
