@@ -5,7 +5,7 @@ navigation_weight: 5
 ---
 
 How to reproduce fat sounding synths in Milkytracker?<br>
-Simple..let's take Raina's amazing [Cyberculosis.xm](/songs/raina-Cyberculosis.xm) as example.<br>
+Simple..let's take Raina's amazing [Cyberculosis.xm](/songs/raina-Cyberculosis.zip) as example.<br>
 All you need is this:<br> 
 
 <div style="text-align:center">
