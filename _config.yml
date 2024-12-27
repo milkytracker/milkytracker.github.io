@@ -29,3 +29,13 @@ exclude:
   - vendor/bundle
   - Gemfile
   - Gemfile.lock
+
+header_pages:
+  - about.md
+  - news.md
+  - screenshots.md
+  - downloads.md
+  - documentation.md
+  - community.md
+  - donate.md
+  - links.md
