@@ -5,8 +5,9 @@ navigation_weight: 1
 ---
 
 <div style="text-align:center">
-    <img src="/img/milkytracker.gif"/>
+    <img src="/img/milkytracker.gif" width="500px"/>
 </div>
+<br>
 
 
 MilkyTracker is an open source, multi-platform music application for creating [.MOD][mod-file-format] and [.XM][xm-file-format] [module files](module-files). It attempts to recreate the module replay and user experience of the popular DOS program [Fasttracker II][fast-tracker], with special playback modes available for improved Amiga [ProTracker][what-is-protracker] 2/3 compatibility.
