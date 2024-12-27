@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Prophet Juno Arp-like Synths in Milkytracker 
-nav_exclude: true 
+navigation_weight: 0
+permalink: docs/example-prophet-juno-arp-like-synths-in-milkytracker
 ---
 
 How to reproduce fat sounding synths in Milkytracker?<br>
