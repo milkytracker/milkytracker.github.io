@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Prophet Juno Arp-like Synths in Milkytracker 
+title: Prophet Juno Arp-like Synths in MilkyTracker 
 navigation_weight: 0
 permalink: docs/example-prophet-juno-arp-like-synths-in-milkytracker
 ---
 
-How to reproduce fat sounding synths in Milkytracker?<br>
-Simple! Let's take Raina's amazing [Cyberculosis.xm](/songs/raina-Cyberculosis.zip) as example.<br>
+How to reproduce fat sounding synths in MilkyTracker?<br>
+Simple! Let's take raina's amazing [Cyberculosis.xm](/songs/raina-Cyberculosis.zip) as example.<br>
 All you need is this:<br> 
 
 <div style="text-align:center">
@@ -16,7 +16,7 @@ All you need is this:<br>
 </div>
 <br>
 
-Then type some notes into Milkytracker, and end up with this:
+Then type some notes into MilkyTracker, and end up with this:
 
 <div style="text-align:center">
     <b style="font-size:11px">A stereo synth-ARP with portamento, accents & bass layer:</b><br>
@@ -25,7 +25,7 @@ Then type some notes into Milkytracker, and end up with this:
 </div>
 <br>
 
-If we open the [XM file](/songs/raina-Cyberculosis.zip) in Milkytracker, we can actually see **exactly** what is going on:<br>
+If we open the [XM file](/songs/raina-Cyberculosis.zip) in MilkyTracker, we can actually see **exactly** what is going on:<br>
 <br>
 <img width="100%" style="max-width:1024px" src="/img/example-prophet-juno-arp-like-synths-in-milkytracker.jpg"/>
 
@@ -45,13 +45,13 @@ Techniques used:
 * resample (ctrl+shift+v) the pattern
 * sample-editor: apply 100% wet reverb
 * sample-editor: enable 'Forward loop'
-* play the note in the pattern on 2 hard-panned channels (effect `800` and `8FF`
+* play the note in the pattern on 2 hard-panned channels (effect `800` and `8FF`)
 * sample-editor: apply 'Loop Fold'-effect to shrink the reverb loop to reasonable size
 
 ## Listen to the whole song
 
 <div style="text-align:center">
-    <b style="font-size:11px">Raina - Cyberculosis</b><br> 
+    <b style="font-size:11px">raina - Cyberculosis</b><br> 
     <audio controls src="/songs/raina-Cyberculosis.mp3" type="audio/mpeg">
     </audio>
 </div>
