@@ -16,8 +16,8 @@ sofware repositories, so spread the word. We'd also like to see some quality
 player plugins and whatnot come out of this.
 
 You might have already noticed but with the new release, the website was also
-rebooted and the [manual](docs/MilkyTracker.html) now has a comprehensive list
-of the [effect commands](docs/MilkyTracker.html#effects) with their
+rebooted and the [manual](docs/manual/MilkyTracker.html) now has a comprehensive list
+of the [effect commands](docs/manual/MilkyTracker.html#effects) with their
 explanations. Hoping to serve you better and all in all, provide a better
 MilkyTracker experience. If you're still reading this, now would be a good time
 to stop and go get your copy of MilkyTracker from [downloads][downloads]. For

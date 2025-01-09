@@ -101,6 +101,11 @@ h1 img
 	width: 100%;
 }
 
+#navigation > :first-child {
+	display: none;
+}
+
+
 #navigation *
 {
 	list-style: none;
@@ -237,7 +242,7 @@ p
 
 .comment
 {
-	
+
 	text-align: left;
 	float: left;
 	font-size: 8pt;
@@ -245,7 +250,7 @@ p
 
 .writer
 {
-	
+
 	text-align: right;
 	font-style: italic;
 	color: #ace;
@@ -279,7 +284,7 @@ li ul, li ol
 table
 {
 	border-collapse: collapse;
-	margin: 0;	
+	margin: 0;
 	border: 0;
 	padding: 0;
 }
@@ -312,7 +317,7 @@ tr.hover:hover
 td
 {
 	vertical-align: top;
-	margin: 0;	
+	margin: 0;
 	border: 0;
 	padding: 0;
 	padding-right: 1em;
