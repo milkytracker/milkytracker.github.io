@@ -101,11 +101,6 @@ h1 img
 	width: 100%;
 }
 
-#navigation > :first-child {
-	display: none;
-}
-
-
 #navigation *
 {
 	list-style: none;
