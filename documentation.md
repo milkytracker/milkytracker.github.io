@@ -35,7 +35,7 @@ navigation_weight: 5
 [changelog]: {% link docs/ChangeLog.md %}
 [faq]: {% link docs/FAQ.html %}
 [wiki]: https://github.com/milkytracker/MilkyTracker/wiki/MilkyTracker-Guide
-[manual]: {% link docs/MilkyTracker.html %}
+[manual]: {% link docs/manual/MilkyTracker.html %}
 [quick-ref-readme]: {% link docs/QuickReferenceReadMe.txt %}
 [quick-ref-milky-mac]: {% link docs/QuickReferenceMTOSX.pdf %}
 [quick-ref-milky-winsdl]: {% link docs/QuickReferenceMTWinSDL.pdf %}
