@@ -70,6 +70,14 @@
     path: "platform"
     description: "Looking outside the window…"
     images:
+    - filename: "Korli-Haiku.png"
+      author: "korli"
+      caption: "Milkytracker running natively on Haiku"
+
+    - filename: "AmigaRetro-AmigaOS4.1.png"
+      author: "korli"
+      caption: "Milkytracker 1.05 running natively on AmigaOS4.1"
+
     - filename: "pailes-OSX.png"
       author: "pailes"
       caption: "MilkyTracker on Mac OS X 10.4.11 showing the sample editor"
