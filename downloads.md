@@ -191,7 +191,7 @@ Fill your PlayStation Portable with the milky goodness of a kickass module playe
 
 [modarchive-tracker]: http://tracker.modarchive.org
 [samples-kiarchive]: http://tracker.modarchive.org/torrents/kiarchive.zip.torrent
-[samples-jungle]: https://soundpacks.com/free-sound-packs/junglejungle-1989-1999-sample-pack
+[samples-jungle]: https://blumarten.bandcamp.com/album/blu-mar-ten-jungle-jungle-1989-to-1999-samplepack
 [samples-waveworld]: http://tracker.modarchive.org/torrents/TMA-waveworld.zip.torrent
 [samples-woolyss]: http://tracker.modarchive.org/torrents/woolyss-chiptune-samples.zip.torrent
 [woolyss]: http://woolyss.com
