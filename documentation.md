@@ -36,6 +36,7 @@ navigation_weight: 5
   * [ASCIISYNTH spec][ASCIISYNTH]
   * [ASCIISTEP16 spec][ASCIISTEP16]
   * [Unofficial XM Spec][XMSPEC]
+  * [XM Katai struct reader/writer](https://formats.kaitai.io/fasttracker_xm_module/index.html)
 
 [changelog]: {% link docs/ChangeLog.md %}
 [faq]: {% link docs/FAQ.html %}
