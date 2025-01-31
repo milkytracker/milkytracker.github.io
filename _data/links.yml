@@ -90,7 +90,7 @@
         description: "modern but winamp-style musicplayer with module-support"
         url: "http://qmmp.ylsoftware.com/"
 
-      - name: "foobarqmmp (desktop/crossplatform)"
+      - name: "qmmp (desktop/crossplatform)"
         description: "modern extendable winamp-style musicplayer with module-support"
         url: "http://qmmp.ylsoftware.com/"
 
