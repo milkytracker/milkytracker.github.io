@@ -32,6 +32,11 @@ navigation_weight: 5
   * [Tracking Principles][tracking-principles] by Yosfits
   * [TraxWeekly, the complete archive 1995&ndash;1998][trax-weekly]
 
+#### Technical 
+  * [ASCIISYNTH spec][ASCIISYNTH]
+  * [ASCIISTEP16 spec][ASCIISTEP16]
+  * [Unofficial XM Spec][XMSPEC]
+
 [changelog]: {% link docs/ChangeLog.md %}
 [faq]: {% link docs/FAQ.html %}
 [wiki]: https://github.com/milkytracker/MilkyTracker/wiki/MilkyTracker-Guide
@@ -52,3 +57,7 @@ navigation_weight: 5
 [trackers-handbook-text]: {% link docs/TrackersHandbook05.txt.zip %}
 [tracking-principles]: {% link docs/Tracking Principles.html %}
 [trax-weekly]: {% link docs/TraxWeekly.zip %}
+
+[ASCIISYNTH]: {% link docs/ASCIISYNTH.txt %}
+[ASCIISTEP16]: {% link docs/ASCIISTEP16.txt %}
+[XMSPEC]: {% link docs/XM_file_format.pdf %}
