@@ -70,6 +70,34 @@
         url: "https://github.com/mywave82/opencubicplayer"
         banner: "ocp.jpg"
 
+      - name: "ZXTune (android)"
+        description: "android tracked music player including network access to module clouddrives"
+        url: "https://play.google.com/store/apps/details?id=app.zxtune&hl=en-US&pli=1"
+      
+      - name: "DroidSound-E (android)"
+        description: "android music player incl. milkytracker/module support"
+        url: "https://droidsound-e.web.app/"
+
+      - name: "VLC (desktop/android/ios)"
+        description: "multimedia player incl. milkytracker/module support"
+        url: "https://www.videolan.org/vlc/"
+
+      - name: "ffmpeg / ffplay (commandline)"
+        description: "multimedia player incl. milkytracker/module support"
+        url: "https://ffmpeg.org"
+
+      - name: "qmmp (desktop/crossplatform)"
+        description: "modern but winamp-style musicplayer with module-support"
+        url: "http://qmmp.ylsoftware.com/"
+
+      - name: "foobarqmmp (desktop/crossplatform)"
+        description: "modern extendable winamp-style musicplayer with module-support"
+        url: "http://qmmp.ylsoftware.com/"
+
+      - name: "foobar2000 (windows/wine)"
+        description: "extendable musicplayer with builtin module support"
+        url: "https://www.foobar2000.org/"
+
       - name: "Vox"
         description: "An OS X player based on the BASS programming library"
         url: "http://www.voxapp.net/"
