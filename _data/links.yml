@@ -65,6 +65,11 @@
         url: "http://www.un4seen.com/"
         banner: "Un4seenDevelopments.gif"
 
+      - name: "Open Cubic Player"
+        description: "Music visualizer for various tracked music formats" 
+        url: "https://github.com/mywave82/opencubicplayer"
+        banner: "ocp.jpg"
+
       - name: "Vox"
         description: "An OS X player based on the BASS programming library"
         url: "http://www.voxapp.net/"
